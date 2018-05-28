@@ -1,0 +1,2 @@
+python getPicture.py 
+pause
